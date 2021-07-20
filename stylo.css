@@ -1,0 +1,29 @@
+@charset "UTF -8";
+
+body {
+    background-color: rgba(0, 255, 255, 0.753);
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+p{
+    text-indent: 40px;
+}
+.bonita {
+    border: 1px solid white;
+    box-shadow: 1px 2px 3px black;
+}
+
+section#corpo{
+    display: flex;
+}
+.bonita{
+    display: block;
+    margin: 15px;
+    border: 2px solid black;
+    padding: 8px;
+    background-color: burlywood;
+}
